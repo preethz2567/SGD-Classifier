@@ -37,7 +37,7 @@ To write a program to predict the type of species of the Iris flower using the S
 10. **Evaluate the Model**  
    Use `accuracy_score`, `confusion_matrix`, and `classification_report` to assess performance.
 
-## Program:
+## Program and Output:
 ```
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: PREETHI D 
@@ -93,8 +93,7 @@ print(classification_report1)
 ```
 ![image](https://github.com/user-attachments/assets/a36d15e9-6a52-479c-abb9-cf41233455a5)
 
-## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+
 
 
 ## Result:
